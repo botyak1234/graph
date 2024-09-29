@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -52,8 +52,8 @@ namespace graph
                         continue;
                     }
 
-                    int startVertex = int.Parse(edgeParts[0]);
-                    int endVertex = int.Parse(edgeParts[1]);
+                    string startVertex = edgeParts[0];
+                    string endVertex = edgeParts[1];
                     int weight = isWeighted ? int.Parse(edgeParts[2]) : 1;
 
                     graph.addEdge_const(startVertex, endVertex, weight);
@@ -91,30 +91,30 @@ namespace graph
                 {
                     case "1":
                         Console.WriteLine("Введите номер вершины:");
-                        int vertex = int.Parse(Console.ReadLine());
+                        string vertex = Console.ReadLine();
                         graph.addVertex(vertex);
                         break;
 
                     case "2":
                         Console.WriteLine("Введите начальную вершину, конечную вершину и вес через пробел:");
                         var edgeParts = Console.ReadLine().Split(' ');
-                        int start = int.Parse(edgeParts[0]);
-                        int end = int.Parse(edgeParts[1]);
+                        string start = edgeParts[0];
+                        string end = edgeParts[1];
                         int weight = int.Parse(edgeParts[2]);
                         graph.addEdge(start, end, weight);
                         break;
 
                     case "3":
                         Console.WriteLine("Введите номер вершины:");
-                        int removeVertex = int.Parse(Console.ReadLine());
+                        string removeVertex = Console.ReadLine();
                         graph.removeVertex(removeVertex);
                         break;
 
                     case "4":
                         Console.WriteLine("Введите начальную вершину, конечную вершину и вес через пробел:");
                         var removeEdgeParts = Console.ReadLine().Split(' ');
-                        int rStart = int.Parse(removeEdgeParts[0]);
-                        int rEnd = int.Parse(removeEdgeParts[1]);
+                        string rStart = removeEdgeParts[0];
+                        string rEnd = removeEdgeParts[1];
                         int rWeight = int.Parse(removeEdgeParts[2]);
                         graph.removeEdge(rStart, rEnd, rWeight);
                         break;
