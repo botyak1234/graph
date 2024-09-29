@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\obj\Debug\graph.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\obj\Debug\graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\obj\Debug\graph.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\bin\Debug\graph.exe.config
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\bin\Debug\graph.exe
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\bin\Debug\graph.pdb
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\obj\Debug\graph.exe
+C:\Users\Пользователь\source\repos\labs_7_8\graph\graph\obj\Debug\graph.pdb
