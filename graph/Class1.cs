@@ -326,5 +326,20 @@ namespace graph
                 Console.WriteLine(); // Переход на новую строку после каждой вершины
             }
         }
+        public int GetInDegree(string vertex)
+        {
+             int inDegree = 0;
+             foreach (var adj in adjacencyList)
+             {
+                 foreach (var edge in adj.Value)
+                 {
+                     if (edge.Item1 == vertex) // Если конечная вершина равна данной вершине
+                     {
+                         inDegree++;
+                     }
+                 }
+             }
+             return inDegree;
+        }
     }
 }
