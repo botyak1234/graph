@@ -1,4 +1,6 @@
 n n
 a b
 b c
+c a
 c d
+b d

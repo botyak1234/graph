@@ -1,4 +1,4 @@
 n n
 a b
 b c
-c d
+a c

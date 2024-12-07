@@ -1,0 +1,9 @@
+isDirected:True
+isWeighted:True
+A B 3
+A C 5
+B D 2
+C D 4
+D E 1
+Isolated vertices:
+E
