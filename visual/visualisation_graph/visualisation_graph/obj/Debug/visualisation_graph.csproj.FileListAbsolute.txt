@@ -1,0 +1,14 @@
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\bin\Debug\visualisation_graph.exe.config
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\bin\Debug\visualisation_graph.exe
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\bin\Debug\visualisation_graph.pdb
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\MainWindow.baml
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\MainWindow.g.cs
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\App.g.cs
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph_MarkupCompile.cache
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.g.resources
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.Properties.Resources.resources
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.exe
+C:\Users\Danil\source\repos\visualisation_graph\visualisation_graph\obj\Debug\visualisation_graph.pdb
